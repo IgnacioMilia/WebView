@@ -1,4 +1,4 @@
-package torta;
+package WebView;
 
 import java.io.IOException;
 import javafx.application.Application;
